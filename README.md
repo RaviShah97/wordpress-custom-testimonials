@@ -120,6 +120,10 @@ This project is licensed under the [GNU General Public License v2 or later](http
 4. **Template Display:**
    - The Elementor Pro template "Custom Testimonials Post" will be applied to the testimonial post view.
   
+---
+
+Include this optional step in your README file to guide Elementor Pro users through implementing and using the "Custom Testimonials Post" template. Feel free to adjust the wording based on your preferences.
+
 
 # Plugin Images
 
@@ -155,10 +159,6 @@ This project is licensed under the [GNU General Public License v2 or later](http
 
 ![Count-2](https://vistavibes.in/wp-content/uploads/2023/12/Count-Function-2.png)
 
-
----
-
-Include this optional step in your README file to guide Elementor Pro users through implementing and using the "Custom Testimonials Post" template. Feel free to adjust the wording based on your preferences.
 
 
 ---
