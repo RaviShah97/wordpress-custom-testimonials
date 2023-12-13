@@ -151,11 +151,11 @@ Include this optional step in your README file to guide Elementor Pro users thro
 
 ![Shortcode Result](https://vistavibes.in/wp-content/uploads/2023/12/Shortcode-Results.png)
 
-## 7) Count-1
+## 7) Controlling the number of Testimonials using Count-1
 
 ![Count-1](https://vistavibes.in/wp-content/uploads/2023/12/Count-Function-1.png)
 
-## 8) Count-2
+## 8) Controlling the number of Testimonials using Count-2
 
 ![Count-2](https://vistavibes.in/wp-content/uploads/2023/12/Count-Function-2.png)
 
